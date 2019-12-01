@@ -1,0 +1,10 @@
+521niuniu.com/ceshi/aboutus.html
+
+itms-services://?action=download-manifest&url=https://qianhai.qiyeqihuo.com/ceshi/ceshi.plist
+
+
+
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/dorothy1135/ceshi/master/ceshi.plist
+
+
+itms-services://?action=download-manifest&url=https://gitee.com/dorothy1135/ceshi/raw/master/ceshi.plist
