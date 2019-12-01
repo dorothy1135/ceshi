@@ -17,13 +17,13 @@
 				<key>kind</key>
 				<string>display-image</string>
 				<key>url</key>
-				<string>http://521niuniu.com/ceshi/AppIcon57.png</string>//上传上去的`57*57`icon的外链
+				<string>https://raw.githubusercontent.com/dorothy1135/ceshi/master/AppIcon57.png</string>//上传上去的`57*57`icon的外链
 			</dict>
 			<dict>
 				<key>kind</key>
 				<string>full-size-image</string>
 				<key>url</key>
-				<string>http://521niuniu.com/ceshi/AppIcon512.png</string>//上传上去的`512*512`icon的外链
+				<string>https://raw.githubusercontent.com/dorothy1135/ceshi/master/AppIcon512.png</string>//上传上去的`512*512`icon的外链
 			</dict>
 		</array>
 		<key>metadata</key>
